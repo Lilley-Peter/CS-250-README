@@ -1,0 +1,8 @@
+Peter Lilley
+7/6/2021
+SNHU
+CS-250
+	When you interpret user needs it is important to focus on what they are asking for, for example say a user said, “It would be nice to have a “like” button to see if my workers thought this was a good idea.” They are asking for a like button, as well as asking for some traceability or profile. By this is mean that you can not just have a like button without know who liked it, so in turn that request would be dependent on a profile or a way to trace the user.
+Creating user stories helps with this because you can go back and inspect what they user said they wanted or needed. In many cases if a user asks for a lot of things some of them can be forgotten easily and not on purpose. Creating a document that can reflect exactly what the user needs/wants would greatly help the team because everyone would know what the user wanted. 
+Some agile approaches I took away from this for my future development work is incremental testing. By this I mean to test the program frequently and display it to the end users at each stage to make sure I am developing something that they want. Daily meetings are extremely important, keeping an open line of communication between your teams, making sure everyone knows where everyone else is at with progress on the team, and helping those who are stuck.
+To be a good team member you have to be honest. Make sure the team knows that you can be trusted when developing, as well as being honest when you are stuck and open about things you do not know. Making sure everyone is on the same page with what has been done, what will be done, and where you are stuck is extremely important to make the team successful. 
